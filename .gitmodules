@@ -1,0 +1,12 @@
+[submodule "bridge-template"]
+	path = bridge-template
+	url = https://github.com/Anastasia-Labs/bridge-template
+[submodule "linear-vesting"]
+	path = linear-vesting
+	url = https://github.com/Anastasia-Labs/linear-vesting
+[submodule "plutarch-merkle-tree"]
+	path = plutarch-merkle-tree
+	url = https://github.com/Anastasia-Labs/plutarch-merkle-tree
+[submodule "yieldfarming"]
+	path = yieldfarming
+	url = https://github.com/Anastasia-Labs/yieldfarming
