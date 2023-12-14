@@ -10,3 +10,6 @@
 [submodule "yieldfarming"]
 	path = yieldfarming
 	url = https://github.com/Anastasia-Labs/yieldfarming
+[submodule "single-asset-staking"]
+	path = single-asset-staking
+	url = https://github.com/Anastasia-Labs/single-asset-staking
