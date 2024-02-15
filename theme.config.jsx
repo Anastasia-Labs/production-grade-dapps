@@ -1,7 +1,7 @@
 export default {
-  logo: <span>My Nextra Documentation</span>,
+  logo: <span>Production grade dapps documentation</span>,
   project: {
-    link: 'https://github.com/shuding/nextra'
+    link: 'https://github.com/Anastasia-Labs/production-grade-dapps'
   }
   // ... other theme options
 }
