@@ -8,6 +8,7 @@ module.exports = {
     images: { unoptimized: true },
   }),
   output: 'export',
+  basePath: "/production-grade-dapps",
 }
  
 // If you have other Next.js configurations, you can pass them as the parameter:
