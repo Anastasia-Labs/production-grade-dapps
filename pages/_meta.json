@@ -1,5 +1,6 @@
 {
   "index": "Production Grade Dapps",
+  "nix_environments": "Nix Environments",
   "bridge_template": "Bridge Template",
   "linear_vesting": "Linear Vesting",
   "plutarch_merkle_tree": "Plutarch Merkle Tree",
