@@ -71,6 +71,13 @@ const config = {
       },
     };
   },
+  toc: {
+    extraContent: <></>,
+  },
+  editLink:{
+    component: null,
+  },
+  docsRepositoryBase: "https://github.com/Anastasia-Labs/production-grade-dapps",
   footer: {
     text: (
       <span>
