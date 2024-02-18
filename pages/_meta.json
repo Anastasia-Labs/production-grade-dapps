@@ -1,8 +1,9 @@
 {
   "index": "Production Grade Dapps",
-  "bridge_template": "Bridge Template",
-  "linear_vesting": "Linear Vesting",
+  "nix_environments": "Nix Environments",
   "plutarch_merkle_tree": "Plutarch Merkle Tree",
   "single_asset_staking": "Single Asset Staking",
+  "linear_vesting": "Linear Vesting",
+  "bridge_template": "Bridge Template",
   "yield_farming": "Yield Farming"
 }
