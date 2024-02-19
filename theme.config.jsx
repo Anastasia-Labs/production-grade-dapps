@@ -11,7 +11,7 @@ const config = {
   },
   head: (
     <>
-        <link rel="icon" type="image/svg+xml" sizes="any" href="/icon.png"/>
+        <link rel="icon" type="image/svg+xml" sizes="any" href="https://avatars.githubusercontent.com/u/125997902?s=200&v=4"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@700&display=swap" />
         <meta name="twitter:image" content="https://anastasialabs.com/assets/img/logo/logo.png" />
         <meta name="twitter:site:domain" content="https://anastasialabs.com/" />
