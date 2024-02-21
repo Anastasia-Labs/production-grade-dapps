@@ -38,12 +38,12 @@ Consider a Merkle tree with four leaf nodes (A, B, C, D).
 ```mermaid
 graph TD;
     MR("Merkle Root")
-    HAB("Hash(A+B)")
-    HCD("Hash(C+D)")
-    HA("Hash(A)")
-    HB("Hash(B)")
-    HC("Hash(C)")
-    HD("Hash(D)")
+    HAB("Hash(LeafA+LeafB)")
+    HCD("Hash(LeafC+LeafD)")
+    HA("LeafA = Hash(A)")
+    HB("LeafB = Hash(B)")
+    HC("LeafC = Hash(C)")
+    HD("LeafD = Hash(D)")
 
     MR --> HAB
     MR --> HCD
